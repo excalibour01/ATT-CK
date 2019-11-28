@@ -82,7 +82,15 @@
 
 ***
 
-## Defense Evasion
+## Defense Evasion（防御规避）
+
+### Access Token Manipulation
+
+### Binary Padding
+
+### BITS Jobs
+
+### Bypass User Account Control
 
 ***
 
